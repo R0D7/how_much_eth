@@ -24,5 +24,5 @@ The wallet has 1070.5062810628 $ of Ethereum
 ```
 
 ## Dependencies
-[web3](https://web3py.readthedocs.io/en/v5/)
-[requests](https://docs.python-requests.org/en/latest/)
+* [web3](https://web3py.readthedocs.io/en/v5/)
+* [requests](https://docs.python-requests.org/en/latest/)
