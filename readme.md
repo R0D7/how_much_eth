@@ -18,10 +18,10 @@ To use this program, you will need to have an Ethereum node provider and a CoinM
 The program will display the corresponding USD value of the Ethereum held in the wallet.
 
 ## Example
-'''python
+```python
 Enter an Ethereum address: 0x742d35Cc6634C0532925a3b844Bc454e4438f44e
 The wallet has 1070.5062810628 $ of Ethereum
-'''
+```
 
 ## Dependencies
 [web3](https://web3py.readthedocs.io/en/v5/)
